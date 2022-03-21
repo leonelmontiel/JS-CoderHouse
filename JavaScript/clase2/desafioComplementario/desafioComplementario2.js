@@ -58,7 +58,7 @@ let decisionPago = prompt(`El total a pagar es $${totalAPagar}
 
 if (decisionPago == 1) {
     alert(`¡TU COMPRA SE REALIZÓ CON ÉXITO!
-    Te llegará un correo electrónico con los datos de la/s entrada/s para que presentes en ventanilla.
+Te llegará un correo electrónico con los datos de la/s entrada/s para que presentes en ventanilla.
     
 Muchas gracias por usar el sistema de compra de entradas de Boedo Cinema
     
